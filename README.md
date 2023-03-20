@@ -25,4 +25,5 @@ The website consists of this hierarchy:
 
 ![image](https://user-images.githubusercontent.com/84967397/226328120-8b6410a5-1b9d-4e69-8c4f-d66e91d8d56a.png)
 
+The website is currently only available while being connected to the University of Bergen (UiB) network called Eudoroam or UiB-Gjest. 
 Currently the Restaurants page is unavailable to be accessed at this time. 
