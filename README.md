@@ -6,24 +6,22 @@ To be able to run this website, you will have to download the repository and run
 
 The website consists of this hierarchy:
 
-´´´json
 {
-  "homepage": {
-    "Cafés": {},
-    "Restaurants": {
-      "UNAVAILABLE": {}
-    },
-    "Bars": {},
-    "Shops": {
-      "Clothing": {},
-      "Groceries": {},
-      "Household": {}
-    },
-    "About": {},
-    "Gyms": {}
-  }
+    "homepage": {
+        "Cafés": {},
+        "Restaurants": {
+            "UNAVAILABLE": {}
+        },
+        "Bars": {},
+        "Shops": {
+            "Clothing": {},
+            "Groceries": {},
+            "Household": {}
+        },
+        "About": {},
+        "Gyms": {}
+    }
 }
-´´´
 
 ![image](https://user-images.githubusercontent.com/84967397/226328120-8b6410a5-1b9d-4e69-8c4f-d66e91d8d56a.png)
 
